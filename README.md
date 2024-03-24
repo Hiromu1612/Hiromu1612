@@ -1,8 +1,11 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiromu1612&layout=compact&show_icons=true&theme=onedark" />
+<div align="left"> 
+  <a href="https://skillicons.dev">
+  <img align="left" src="https://skillicons.dev/icons?i=js,html,css,heroku"> <br><br>
+  <img align="left" src="https://skillicons.dev/icons?i=js,html,css,heroku">
+  </a>
+ 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hiromu1612&theme=onedark&show_icons=ture" />
-</p>
-
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiromu1612&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiromu1612&theme=gruvbox)
