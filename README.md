@@ -20,7 +20,6 @@
 </table>
 
 
-<br clear="all">
 
 ---
 
