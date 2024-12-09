@@ -20,8 +20,7 @@
 </table>
 
 
-
----
+<br clear="all">
 
 ## 🔍 Projects
 - **YOLO**: Working on object detection using YOLO (You Only Look Once) models.
