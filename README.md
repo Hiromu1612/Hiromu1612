@@ -24,10 +24,6 @@
 <br clear="all">
 
 
-## 🔍 Projects
-- **YOLO**: Working on object detection using YOLO (You Only Look Once) models.
-
----
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiromu1612&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiromu1612&theme=gruvbox)
