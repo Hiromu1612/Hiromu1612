@@ -26,4 +26,4 @@
 <br clear="all">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiromu1612&theme=gruvbox)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hiromu1612&theme=gruvbox&row=2&column=4&no-frame=true&margin-w=0)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hiromu1612&theme=gruvbox&row=2&column=4&no-frame=true&margin-w=0)](https://github.com/Hiromu1612/github-profile-trophy)
